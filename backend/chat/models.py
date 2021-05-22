@@ -2,7 +2,7 @@ from django.db import models
 from django.contrib.auth.models import User
 
 # Create your models here.
-
+#just here to some changes
 
 class Chat(models.Model):
     chat = models.CharField(max_length=50)
