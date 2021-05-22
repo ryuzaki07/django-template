@@ -4,6 +4,7 @@ from django.contrib.auth.models import User
 # Create your models here.
 # just here to some changes
 # another change
+# this is the change in new-branch-1
 
 
 class Chat(models.Model):
